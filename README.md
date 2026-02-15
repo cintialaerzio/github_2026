@@ -1,2 +1,6 @@
-\#Git e GitHub
+\# Git e GitHub
+
+
+
+Curso de versionamento de código e versionamento remoto além de GitFlow e Visual Studio Code.
 
